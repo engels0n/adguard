@@ -40,4 +40,5 @@ api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
 mobile.twitter.com
+t.homeconnecthca.com
 
