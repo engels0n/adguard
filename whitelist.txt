@@ -8,6 +8,8 @@ www.msftncsi.com www.msftconnecttest.com
 outlook.office365.com
 products.office.com
 c.s-microsoft.com
+www.xrel.to
+xrel.to
 utrace.de
 www.utrace.de
 i.s-microsoft.com
