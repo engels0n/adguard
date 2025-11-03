@@ -131,3 +131,6 @@
 @@||filecrypt.co
 @@||chaturbate.com
 @@||nwr.static.mmcdn.com
+@@||firebaselogging-pa.googleapis.com^$client='10.20.30.112'
+@@||eu.mammotion.com^$important
+@@||pixeldrain.com^$important
