@@ -136,3 +136,4 @@
 @@||eu.mammotion.com
 @@||pixeldrain.com
 @@||sklum.com
+@@||main.iam.ad.ext.azure.com
