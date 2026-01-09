@@ -8,6 +8,7 @@
 @@||www.msftconnecttest.com
 @@||outlook.office365.com
 @@||products.office.com
+@@||fonts.gstatic.com^$important
 @@||www.msn.com
 @@||c.s-microsoft.com
 @@||jpg1.su
