@@ -1,4 +1,5 @@
 @@||redirector.gvt1.com
+@@||whatsapp.net
 @@||dl.google.com
 @@||gstaticadssl.l.google.com
 @@||android.clients.google.com
