@@ -137,3 +137,5 @@
 @@||pixeldrain.com
 @@||sklum.com
 @@||main.iam.ad.ext.azure.com
+@@||whatsapp.com
+
