@@ -1,5 +1,6 @@
 @@||redirector.gvt1.com
 @@||paypal.com
+@@||payback.de
 @@||whatsapp.net
 @@||dl.google.com
 @@||gstaticadssl.l.google.com
