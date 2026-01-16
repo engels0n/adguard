@@ -2,6 +2,7 @@
 @@||login.dhl.de
 @@||paypal.com
 @@||payback.de
+@@||www.wieistmeineip.de
 @@||ntp.msn.com
 @@||whatsapp.net
 @@||dl.google.com
