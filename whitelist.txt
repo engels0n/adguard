@@ -144,4 +144,8 @@
 @@||sklum.com
 @@||main.iam.ad.ext.azure.com
 @@||whatsapp.com
-
+@@||faye.prod-eks.pepper.com
+@@||mydealz3de.digidip.net
+@@||facebook.com
+@@||instagram.com
+@@||giphy.com
