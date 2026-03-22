@@ -1,3 +1,13 @@
+@@||geolocation.onetrust.com
+@@||www.camsoda.com
+@@||z-m-static.xx.fbcdn.net
+@@||beacons5.gvt2.com
+@@||beacons4.gvt2.com
+@@||beacons3.gvt2.com
+@@||beacons.gvt2.com
+@@||beacons.gcp.gvt2.com
+@@||amzn.to
+@@||collect.misspompadour.com
 @@||redirector.gvt1.com
 @@||login.dhl.de
 @@||paypal.com
