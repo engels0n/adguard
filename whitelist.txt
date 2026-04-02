@@ -2,6 +2,7 @@
 @@||amazon.com/1/batch/1/OP/$badfilter
 @@||amazon.com/1/batch/1/OE/$badfilter
 @@||www.camsoda.com
+@@||github.com
 @@||z-m-static.xx.fbcdn.net
 @@||beacons5.gvt2.com
 @@||beacons4.gvt2.com
