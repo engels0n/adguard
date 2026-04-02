@@ -11,7 +11,7 @@
 @@||amzn.to
 @@||collect.misspompadour.com
 @@||redirector.gvt1.com
-@@||login.dhl.de
+@@||dhl.de
 @@||paypal.com
 @@||payback.de
 @@||www.wieistmeineip.de
