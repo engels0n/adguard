@@ -1,4 +1,7 @@
 @@||geolocation.onetrust.com
+@@||amazon.de
+@@||ebay.de
+@@||amazonaws.com
 @@||amazon.com/1/batch/1/OP/$badfilter
 @@||amazon.com/1/batch/1/OE/$badfilter
 @@||www.camsoda.com
