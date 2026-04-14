@@ -4,7 +4,6 @@
 @@||amazonaws.com
 @@||amazon.com/1/batch/1/OP/$badfilter
 @@||amazon.com/1/batch/1/OE/$badfilter
-@@||www.camsoda.com
 @@||github.com
 @@||z-m-static.xx.fbcdn.net
 @@||beacons5.gvt2.com
@@ -31,19 +30,9 @@
 @@||www.msftconnecttest.com
 @@||outlook.office365.com
 @@||products.office.com
-@@||fonts.gstatic.com^$important
+@@||fonts.gstatic.com
 @@||www.msn.com
 @@||c.s-microsoft.com
-@@||jpg1.su
-@@||www.xrel.to
-@@||xrel.to
-@@||jpg4.su
-@@||gload.cc
-@@||myboerse.bz
-@@||hd-source.to
-@@||filmfans.org
-@@||serienfans.org
-@@||serienjunkies.org
 @@||utrace.de
 @@||www.utrace.de
 @@||i.s-microsoft.com
@@ -152,8 +141,6 @@
 @@||rustdesk.com
 @@||etoh24.de
 @@||amazonforum.com
-@@||filecrypt.co
-@@||chaturbate.com
 @@||nwr.static.mmcdn.com
 @@||firebaselogging-pa.googleapis.com
 @@||eu.mammotion.com
